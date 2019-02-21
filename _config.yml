@@ -1,6 +1,10 @@
 title: Zhe Zhang | 张喆
 url: "https://ankitsultana.com"
+<<<<<<< HEAD
 baseurl: "/cv"
+=======
+baseurl: "/cv-gh-pages"
+>>>>>>> c45f0f70170351eba92686ff5db21815a65f5ca9
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
