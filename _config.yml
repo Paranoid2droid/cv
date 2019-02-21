@@ -1,6 +1,6 @@
-title: Researcher
+title: Zhe Zhang | 张喆
 url: "https://ankitsultana.com"
-baseurl: "/researcher"
+baseurl: "/cv"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/paranoid2droid"
+footer_text: "The best you can is good enough."
 
 sass:
     style: compressed
@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/cv/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
-   link: "contact"
+   link: "paranoid2droid@gmail.com"
