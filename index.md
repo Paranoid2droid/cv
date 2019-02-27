@@ -4,10 +4,9 @@ layout: default
 
 ## About Me
 
+Hi! I am a graduate student of Institute of Acoustic of the Chinese Academy of Sciences, majoring in audio signal processing.
 
 <img class="profile-picture" src="homer.jpg">
-
-Hi! I am a graduate student of Institute of Acoustic of the Chinese Academy of Sciences, majoring in audio signal processing.
 
 Besides the projects concerning on DSP implementation I am doing in work hours, I also has a mania for computer music and creative coding. I'm now scratching up [my Github page](https://github.com/Paranoid2droid) to share my ChucK codes, MAX/MSP projects ,and other whatever things I built.
 
@@ -19,7 +18,7 @@ One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.
 
 ## Research Interest
 
-I got a Bachelor Degree in Physics, focusing on Acoustic. I engaged in some projects on room acoustics and concert design when I was undergraduate. I also got a part-time job as an associate audio engineer and stage tech in one of the most professional livehouse in Shanghai. 
+I got a Bachelor Degree in Physics, focusing on Acoustic. I engaged in some projects on room acoustics and concert design when I was undergraduate. I also got a part-time job as an associate audio engineer and stage tech in the most professional livehouse in Shanghai. 
 
 Right now I am doing my Master Degree in Electronic Engineering, with a research subject on DSP implementation of audio processing algorithms. I'm developing real-time system of soundfield analysis, including far-field sound source localization and near-field acoustic holography. 
 
