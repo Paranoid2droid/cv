@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Zhe Zhang | 张喆
 ---
 
 ## About Me
