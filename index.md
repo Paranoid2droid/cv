@@ -4,15 +4,21 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="homer.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a graduate student of Institute of Acoustic of the Chinese Academy of Sciences, majoring in audio signal processing.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Besides the projects concerning on DSP implementation I am doing in work hours, I also has a mania for computer music and creative coding. I'm now scratching up [my Github page](https://github.com/Paranoid2droid) to share my ChucK codes, MAX/MSP projects ,and other whatever things I built.
+
+I'm also a bedroom music maker! I've released a few EPs and albums with my bandmates or in my own name. Check [my Soundcloud page](https://soundcloud.com/paranoid2droid) to see my works!
+
+One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.com/), which is an amazing place for learn and make all kinds of cool stuff. Meet me [there](https://www.kadenze.com/users/zhe-zhang)!
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I got a Bachelor Degree in Physics, focusing on Acoustic. I engaged in some projects on room acoustics and concert design when I was undergraduate. I also got a part-time job as an associate audio engineer and stage tech in one of the most professional livehouse in Shanghai. 
+Right now I am doing my Master Degree in Electronic Engineering, with a research subject on DSP implementation of audio processing algorithms. I'm developing real-time system of soundfield analysis, including far-field sound source localization and near-field acoustic holography. 
+With my experiences of acoustics and audio, I found myself get a mania for the cross point of computer, music, and acoustics. I finished more than 10 courses on Kadenze about music technology and computer music, including ChucK, MAX/MSP, Physics-DSP, Machine Learning, FAUST, Machine Learning, Web, etc... I'm looking forward to meet an opportunity to dig into music technology and computer music.
 
 ## Publications
 
