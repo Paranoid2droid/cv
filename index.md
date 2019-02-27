@@ -11,7 +11,7 @@ Hi! I am a graduate student of Institute of Acoustics of the Chinese Academy of 
 
 Besides the projects concerning on DSP implementation I am doing in work hours, I also has a mania for computer music and creative coding. I'm now scratching up [my Github page](https://github.com/Paranoid2droid) to share my ChucK codes, MAX/MSP projects ,and other whatever things I built.
 
-I'm also a bedroom music maker! I've released a few EPs and albums with my bandmates or in my own name. Check [my Soundcloud page](https://soundcloud.com/paranoid2droid) to see my works!
+I'm also a bedroom music maker! I've released a few EPs and albums with my bandmates or in my own name. Check [my Soundcloud page](https://soundcloud.com/paranoid2droid) to hear my works!
 
 One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.com/), which is an amazing place for learn and make all kinds of cool stuff. Meet me [there](https://www.kadenze.com/users/zhe-zhang)!
 
@@ -19,11 +19,11 @@ One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.
 
 ## Research Interest
 
-I got a Bachelor Degree in Physics, focusing on Acoustics. I engaged in some projects on room acoustics and concert design when I was undergraduate. I also got a part-time job as an associate audio engineer and stage tech in the most professional livehouse in Shanghai. 
+I got a Bachelor Degree in Physics, focusing on Acoustics. I engaged in some projects on room acoustics and concert hall design when I was an undergraduate. I also got a part-time job as an associate audio engineer and stage tech in the most professional livehouse in Shanghai. 
 
 Right now I am doing my Master Degree in Electronic Engineering, with a research subject on DSP implementation of audio processing algorithms. I'm developing real-time system of soundfield analysis, including far-field sound source localization and near-field acoustic holography. 
 
-With my experiences of acoustics and audio, I found myself get a mania for the cross point of computer, music, and acoustics. I finished more than 10 courses on Kadenze about music technology and computer music, including ChucK, MAX/MSP, Physics-DSP, Machine Learning, FAUST, Machine Learning, Web, etc... I'm looking forward to meet an opportunity to dig into music technology and computer music.
+With my experiences of acoustics and audio, I found my passion for research landed on the cross point of computer, music, and acoustics. I finished more than 10 courses on Kadenze about music technology and computer music, including ChucK, MAX/MSP, Physics-DSP, Machine Learning, FAUST, Machine Learning, Web, etc... And I am still working with them to build more interesting and meaningful things. I am looking forward to meet an opportunity to dig into music technology and computer music.
 
 ---
 
@@ -31,8 +31,17 @@ With my experiences of acoustics and audio, I found myself get a mania for the c
 
 Time      | School                                                    | Degree                         | Major     | GPA
 ----------|-----------------------------------------------------------|--------------------------------|-----------|------ 
-2013-2017 | Tongji University                                         | Bachelor in Physics            | Acoustics | 4.6/5 
 2017-     | Institute of Acoustics of the Chinese Academy of Sciences | Master of Electric Engineering | Audio Signal Processing | ...
+2013-2017 | Tongji University                                         | Bachelor of Physics            | Acoustics | 4.6/5 
+
+---
+
+## Experiences
+
+Time      | Location         | Job Description                  
+----------|------------------|------------------
+2013-2017 | blabla | blabla  
+2017-     | blabla | blabla 
 
 ---
 
