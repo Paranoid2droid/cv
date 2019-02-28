@@ -5,9 +5,9 @@ title: Zhe Zhang | 张喆
 
 ## About Me
 
-Hi! I am a graduate student of Institute of Acoustics of the Chinese Academy of Sciences, majoring in audio signal processing.
-
 <img class="profile-picture" src="homer.jpg">
+
+Hi! I am a graduate student of Institute of Acoustics of the Chinese Academy of Sciences, majoring in audio signal processing.
 
 Besides the projects concerning on DSP implementation I am doing in work hours, I also has a mania for computer music and creative coding. I'm now scratching up [my Github page](https://github.com/Paranoid2droid) to share my ChucK codes, MAX/MSP projects ,and other whatever things I built.
 
@@ -21,7 +21,7 @@ One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.
 
 I got a Bachelor Degree in Physics, focusing on Acoustics. I engaged in some projects on room acoustics and concert hall design when I was an undergraduate. I also got a part-time job as an associate audio engineer and stage tech in the most professional livehouse in Shanghai. 
 
-Right now I am doing my Master Degree in Electronic Engineering, with a research subject on DSP implementation of audio processing algorithms. I'm developing real-time system of soundfield analysis, including far-field sound source localization and near-field acoustical holography. 
+Right now I am doing my Master Degree in Electronic Engineering, with a research subject on DSP implementation of audio processing algorithms. I'm developing real-time system of sound field analysis, including far-field sound source localization and near-field acoustical holography. 
 
 With my experiences of acoustics and audio, I found my passion for research landed on the cross point of computer, music, and acoustics. I finished more than 10 courses on Kadenze about music technology and computer music, including ChucK, MAX/MSP, Physics-DSP, Machine Learning, FAUST, Machine Learning, Web, etc... And I am still working with them to build more interesting and meaningful things. I am looking forward to meet an opportunity to dig into music technology and computer music.
 
@@ -44,27 +44,36 @@ Time      | Location                  | Job Description
 2016 - 2017 | Institute of Acoustics of Tongji University, Shanghai | research assistance
 2016       | Shanghai | recording engineer of band The Machinery of Other Skeletons 
 2015 - 2017 | MAO Livehouse (Shanghai), Shanghai | associate audio engineer & stage tech
-2014 Summer | Environmental Protection Agency of Zhabei District, Shanghai | roof afforestation plan in Shanghai
+2014 Summer | Environmental Protection Agency of Zhabei District, Shanghai | investigation of roof afforestation plan in Shanghai
 2013 Summer | FamilyMart, Shanghai | sales and clerk
 
 ---
 
 ## Research Projects
 
-* 2019: DSP-based Implementation of Far-field Sound Source Localization
 <img class="project-picture" src="research_1.jpg">
 
-Study techniques of sound source localization algorithms and develop real-time systems.
+* 2019: DSP-based Implementation of Far-field Sound Source Localization Algorithms
 
+Study techniques of sound source localization algorithms such as SRP, develop real-time DSP systems to locate sound sources using microphone array.
 
-
-
-* 2018: DSP-based Implementation of Near-field Acoustical Holography
 <img class="project-picture" src="research_2.gif">
 
-Study techniques of near-field acoustical holography algorithms and develop real-time systems.
+* 2018: DSP-based Implementation of Near-field Acoustical Holography Algorithms
 
+Study techniques of near-field acoustical holography algorithms such as SONAH, develop real-time DSP systems to visualize sound field with details of evanescent waves.
 
+<img class="project-picture" src="research_3.jpg">
+
+* 2017: Measurement of Total Sound Energy Density Based on Sound Field Microphone
+
+Design filter banks converting A-Format audio signal captured by sound field microphones into B-Format and to obtain three-dimensional particle vibration velocity and total sound energy density.
+
+<img class="project-picture" src="research_4.jpg">
+
+* 2016: Study on the Decay of Sound Energy in Stage-Auditorium Coupled Sound Field of Theaters
+
+Based on a scale model of a theater in sound-proof chamber, modify the acoustical absorption coefficient of stage and auditorium to study the predicting of reverberation in different location inside a theater with acoustical coupling phenomenon between stage and auditorium.
 
 ---
 
