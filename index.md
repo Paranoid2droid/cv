@@ -23,7 +23,7 @@ I got a Bachelor Degree in Physics, focusing on Acoustics. I engaged in some pro
 
 Right now I am doing my Master Degree in Electronic Engineering, with a research subject on DSP implementation of audio processing algorithms. I'm developing real-time system of sound field analysis, including far-field sound source localization and near-field acoustical holography. 
 
-With my experiences of acoustics and audio, I found my passion for research landed on the cross point of computer, music, and acoustics. I finished more than 10 courses on Kadenze about music technology and computer music, including ChucK, MAX/MSP, Physics-DSP, Machine Learning, FAUST, Machine Learning, Web, etc... And I am still working with them to build more interesting and meaningful things. I am looking forward to meet an opportunity to dig into music technology and computer music.
+With my experiences of acoustics and audio, I found my passion for research landing on the cross point of computer, music, and acoustics. I finished [more than 10 courses on Kadenze](https://www.kadenze.com/users/zhe-zhang#tab-certificates) related to music technology, computer music and creative coding, including ChucK, MAX/MSP, Physics-DSP, Machine Learning, FAUST, Machine Learning, Web, etc... And I am still working with them to build more interesting and meaningful things. I am looking forward to meet an opportunity to dig into music technology and computer music.
 
 ---
 
@@ -89,7 +89,7 @@ Based on a scale model of a theater in sound-proof chamber, modify the acoustica
 
 ## Albums & EPs
 
-> *The Artifacts of Ripples*: **A personal music project of mine, exploring the edge of making music in a bedroom. I made the album "Radio Rex" totally by iPad, getting rid of the complexity of a traditional music studio.**
+> *The Artifacts of Ripples*: **A personal music project of mine, exploring the edge of making music in a bedroom. I made the album "Radio Rex" totally by iPad, getting rid of the complexity and expensiveness of traditional music production in studio.**
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/703468422&color=%237c766d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
