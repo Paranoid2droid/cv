@@ -55,6 +55,7 @@ Time      | Location                  | Job Description
 <img class="project-picture" src="research_1.jpg">
 
 Study techniques of sound source localization algorithms and develop real-time systems.
+<br>
 
 * 2018: DSP-based Implementation of Near-field Acoustical Holography
 <img class="project-picture" src="research_2.gif">
