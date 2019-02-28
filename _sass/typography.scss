@@ -53,13 +53,13 @@
             }
         }
     }
-    .project-picture {
+    project-picture {
         height: $image-size;
         width: $image-size;
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
-        //border-radius: 0%;
+        border-radius: 0%;
         p & {
             padding: 0;
             margin: 0;
