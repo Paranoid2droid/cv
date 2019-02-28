@@ -5,7 +5,9 @@ is_contact: true
 
 * Email: [paranoid2droid@gmail.com](mailto:paranoid2droid@gmail.com)
 
-* WeChat: <img src="qrcode.jpg">
+* WeChat: 
+
+<img src="qrcode.jpg" width="50%">
 
 ---
 
