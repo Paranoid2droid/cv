@@ -42,7 +42,7 @@ Time      | Location                  | Job Description
 ----------|---------------------------|------------------
 2017       | Waves Audio Ltd., Beijing | composing and translating product tech introduction of website of Waves Audio
 2016 - 2017 | Institute of Acoustics of Tongji University, Shanghai | research assistance
-2016       | Shanghai | recording engineer of band The Machinery of Other Skeletons 
+2016       | Paranoid Android Studio, Shanghai | recording engineer of band The Machinery of Other Skeletons 
 2015 - 2017 | MAO Livehouse (Shanghai), Shanghai | associate audio engineer & stage tech
 2014 Summer | Environmental Protection Agency of Zhabei District, Shanghai | investigation of roof afforestation plan in Shanghai
 2013 Summer | FamilyMart, Shanghai | sales and clerk
@@ -80,36 +80,44 @@ Based on a scale model of a theater in sound-proof chamber, modify the acoustica
 ## Personal Portfolio
 
 * [Cosmic Echoes: An Interactive Max/MSP Patch Echoes Waves in Sound and Visualization](https://www.kadenze.com/users/zhe-zhang/portfolio_projects/ii-c8d45663-014f-412c-9de1-e0ea8bed9224){:target="_blank"}
-* Precode in C: An ChucK Programming Work Inspired by BWV846 of Bach
+* Precode in C: A Piece of Computer Music Work Based on ChucK Programming Inspired by BWV846 of Bach
+* shakeFM: A Gravity-controlled FM Synthesizer Based on Wekinator and Chuck Using Machine Learning Algorithms
+* Wild Open Space: A Demo Sonic Game with a Remote Control using OSC based on ChucK and OpenGL 
+* Grain Step Drum Machine: A Drum Machine with a Digital Clock Modulation Creating Complex but Groovy Rhythm Patterns
+
+---
+
+## Albums & EPs
+
+> *The Artifacts of Ripples*: **A personal music project of mine, exploring the edge of making music in a bedroom. I made the album "Radio Rex" totally by iPad, getting rid of the complexity of a traditional music studio.**
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/703468422&color=%237c766d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/703446387&color=%236c8b5c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/571439184&color=%235c6c44&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+> *Subaqua Roaming Guide*: **A band with my friends Shenyang Xu and Yonglin Zhang. I did some parts of the composing, recording, sampling, mixing, vocal, electric guitar, synthesizer, and sound effects in the works.**
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/703417029&color=%230a3665&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/702584835&color=%235b759c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ---
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+On the fuck going...!!!
 
 ---
 
-Here is a blockquote
+## Skills
 
-> To a great mind, nothing is little
+* **Programming**: *C/C++, Matlab, DSP Developing, Python, Javascript*
+* **Audio Processing**: *ChucK, MAX/MSP, Wekinator, FAUST, Reaktor*
+* **Music Production**: *Recording & PA, Audio Mixing, Sound Design*
+* **Acoustic Design**: *COMSOL*
 
-## References
+## Others
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+I am a soundscape recorder, nature conversation volunteer, and a marathon runner.
