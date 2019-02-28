@@ -61,7 +61,7 @@ Study techniques of sound source localization algorithms and develop real-time s
 
 Study techniques of near-field acoustical holography algorithms and develop real-time systems.
 
-
+---
 
 ## Publications
 
