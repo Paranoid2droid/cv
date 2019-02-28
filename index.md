@@ -11,7 +11,7 @@ Hi! I am a graduate student of Institute of Acoustics of the Chinese Academy of 
 
 Besides the projects concerning on DSP implementation I am doing in work hours, I also has a mania for computer music and creative coding. I'm now scratching up [my Github page](https://github.com/Paranoid2droid) to share my ChucK codes, MAX/MSP projects ,and other whatever things I built.
 
-I'm also a bedroom music maker! I've released a few EPs and albums with my bandmates or in my own name. Check [my Soundcloud page](https://soundcloud.com/paranoid2droid) to hear my works!
+I'm also a bedroom music maker and amateur guitar/bass/drum/synthesizer player! I've released a few EPs and albums with my bandmates or in my own name. Check [my Soundcloud page](https://soundcloud.com/paranoid2droid) to hear my works!
 
 One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.com/), which is an amazing place for learn and make all kinds of cool stuff. Meet me [there](https://www.kadenze.com/users/zhe-zhang)!
 
@@ -38,12 +38,23 @@ Time      | School                                                    | Degree  
 
 ## Experiences
 
-Time      | Location         | Job Description                  
-----------|------------------|------------------
-2013-2017 | blabla | blabla  
-2017-     | blabla | blabla 
+Time      | Location                  | Job Description                  
+----------|---------------------------|------------------
+2017      | Waves Audio Ltd., Beijing | composing and translating product tech introduction of website of Waves Audio
+2016-2017 | Institute of Acoustics of Tongji University, Shanghai | research assistance
+2016      | Shanghai | recording engineer of band The Machinery of Other Skeletons 
+2015-2017 | MAO Livehouse (Shanghai), Shanghai | associate audio engineer & stage tech
+2014 Summer | Environmental Protection Agency of Zhabei District, Shanghai | roof afforestation plan in Shanghai
+2013 Summer | FamilyMart, Shanghai | sales and clerk
 
 ---
+
+## Research Projects
+
+* Foo Bar: Head of Department, Placeholder Names, Lorem
+* John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+
 
 ## Publications
 
