@@ -43,7 +43,7 @@ Time      | Location                  | Job Description
 2017       | Waves Audio Ltd., Beijing | composing and translating product tech introduction of website of Waves Audio
 2016 - 2017 | Institute of Acoustics of Tongji University, Shanghai | research assistance
 2016       | Paranoid Android Studio, Shanghai | recording engineer of band The Machinery of Other Skeletons 
-2015 - 2017 | MAO Livehouse (Shanghai), Shanghai | associate audio engineer & stage tech
+2015 - 2017 | MAO Livehouse, Shanghai | associate audio engineer & stage tech
 2014 Summer | Environmental Protection Agency of Zhabei District, Shanghai | investigation of roof afforestation plan in Shanghai
 2013 Summer | FamilyMart, Shanghai | sales and clerk
 
@@ -65,11 +65,17 @@ Study techniques of near-field acoustical holography algorithms such as SONAH, d
 
 <img class="project-picture" src="research_3.jpg">
 
+* 2018: Improved MUSIC Algorithm with Enhanced Matrix for Estimating Harmonic Components
+
+Estimate the number of harmonic components by observe the trend of eigenvalue of self-correlation matrix of the signal's enhanced matrix to determine the sub-space of MUSIC algorithm, providing a better performance in low SNR situations.
+
+<img class="project-picture" src="research_4.jpg">
+
 * 2017: Measurement of Total Sound Energy Density Based on Sound Field Microphone
 
 Design filter banks converting A-Format audio signal captured by sound field microphones into B-Format and to obtain three-dimensional particle vibration velocity and total sound energy density.
 
-<img class="project-picture" src="research_4.jpg">
+<img class="project-picture" src="research_5.jpg">
 
 * 2016: Study on the Decay of Sound Energy in Stage-Auditorium Coupled Sound Field of Theaters
 
@@ -91,7 +97,7 @@ Based on a scale model of a theater in sound-proof chamber, modify the acoustica
 
 ## Albums & EPs
 
-> *The Artifacts of Ripples*: **A personal music project of mine, exploring the edge of making music in a bedroom. I made the album "Radio Rex" totally by iPad, getting rid of the complexity and expensiveness of traditional music production in studio.**
+> *The Artifacts of Ripples*: **A personal music project of mine, exploring the edge of making music in a bedroom. I made the album *Radio Rex* totally by iPad, getting rid of the complexity and expensiveness of traditional music production in studio.**
 
 <a href="https://theartifactsofripples.bandcamp.com/album/radio-rex" target="_blank">
 <img class="cover-picture" src="radiorex.jpg" title="The Artifacts of Ripples - Radio Rex" alt="The Artifacts of Ripples - Radio Rex" />
@@ -115,8 +121,7 @@ Based on a scale model of a theater in sound-proof chamber, modify the acoustica
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/571439184&color=%235c6c44&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 -->
 
-> *Subaqua Roaming Guide*: **A band with my friends Shenyang Xu and Yonglin Zhang. I did some parts of the composing, recording, sampling, mixing, vocal, electric guitar, synthesizer, and sound effects in the works.**
-
+> *Subaqua Roaming Guide*: **A band with my friends *Shenyang Xu* and *Yonglin Zhang*. I did some parts of the composing, recording, sampling, mixing, vocal, electric guitar, synthesizer, and sound effects in the works.**
 
 <a href="https://subaquaroamingguide.bandcamp.com/album/and-a-star-to-steer-her-by" target="_blank">
 <img class="cover-picture" src="andastartosteerherby.jpg" title="Subaqua Roaming Guide - and a star to steer her by" alt="Subaqua Roaming Guide - and a star to steer her by" />
@@ -141,11 +146,11 @@ On going...
 
 ## Skills
 
-* **Programming**: *C/C++, Matlab, DSP Developing, Python, Javascript*
+* **Programming**: *C/C++, Matlab, DSP Software Developing, Python, Javascript*
 * **Audio Processing**: *ChucK, MAX/MSP, Wekinator, FAUST, Reaktor*
 * **Music Production**: *Recording & PA, Audio Mixing, Sound Design*
 * **Acoustic Design**: *COMSOL*
 
 ## Others
 
-I am a soundscape recorder, nature conversation volunteer, and a marathon runner.
+I am a soundscape recorder, a nature conservation volunteer, and a marathon runner.
