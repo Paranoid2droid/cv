@@ -57,7 +57,7 @@
         height: 80px;
         width: 120px;
         position: relative;
-        margin: 10px 0 20px 20px;
+        margin: 10px 0 0 20px;
         float: right;
         border-radius: 0%;
         p & {
@@ -70,6 +70,29 @@
             }
         }
     }
+    .cover-picture {
+        height: 120px;
+        width: 120px;
+        position: relative;
+        margin: 0 0 10px 10px;
+        float: none;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
+    }
+    .cover-picture:hover {
+        box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    }
+
     img {
         text-align: center;
         //margin: auto; 

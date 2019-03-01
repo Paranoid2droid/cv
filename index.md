@@ -7,11 +7,11 @@ title: Zhe Zhang | 张喆
 
 <img class="profile-picture" src="homer.jpg">
 
-Hi! I am a graduate student of Institute of Acoustics of the Chinese Academy of Sciences, majoring in audio signal processing.
+Hi! I am a graduate student of [Institute of Acoustics of the Chinese Academy of Sciences](http://english.ioa.cas.cn/){:target="_blank"}, majoring in audio signal processing.
 
 Besides the projects concerning on DSP implementation I am doing in work hours, I also has a mania for computer music and creative coding. I'm now scratching up [my Github page](https://github.com/Paranoid2droid){:target="_blank"} to share my ChucK codes, MAX/MSP projects ,and other whatever things I built.
 
-I'm also a bedroom music maker and amateur guitar/bass/drum/synthesizer player! I've released a few EPs and albums with my bandmates or in my own name. Check [my Soundcloud page](https://soundcloud.com/paranoid2droid){:target="_blank"} to hear my works!
+I'm also a music maker and multi-instrument player. I've released a few EPs and albums. You may check them on [my SoundCloud page](https://soundcloud.com/paranoid2droid){:target="_blank"}.
 
 One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.com/){:target="_blank"}, which is an amazing place for learn and make all kinds of cool stuff. Meet me [there](https://www.kadenze.com/users/zhe-zhang){:target="_blank"}!
 
@@ -19,11 +19,11 @@ One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.
 
 ## Research Interest
 
-I got a Bachelor Degree in Physics, focusing on Acoustics. I engaged in some projects on room acoustics and concert hall design when I was an undergraduate. I also got a part-time job as an associate audio engineer and stage tech in the most professional livehouse in Shanghai. 
+I got a Bachelor Degree in Physics, focusing on Acoustics. I engaged in research on room acoustics and techniques of concert hall design when I was an undergraduate. I was also an associate audio engineer and stage tech in [MAO Livehouse](http://mao-music.com){:target="_blank"}.
 
 Right now I am doing my Master Degree in Electronic Engineering, with a research subject on DSP implementation of audio processing algorithms. I'm developing real-time system of sound field analysis, including far-field sound source localization and near-field acoustical holography. 
 
-With my experiences of acoustics and audio, I found my passion for research landing on the cross point of computer, music, and acoustics. I finished [more than 10 courses on Kadenze](https://www.kadenze.com/users/zhe-zhang#tab-certificates){:target="_blank"} related to music technology, computer music and creative coding, including ChucK, MAX/MSP, Physics-DSP, Machine Learning, FAUST, Machine Learning, Web, etc... And I am still working with them to build more interesting and meaningful things. I am looking forward to meet an opportunity to dig into music technology and computer music.
+With my experiences of acoustics and audio, I found my passion for research landing on the cross point of computer, music, and acoustics. Lately I've finished [more than 10 courses on Kadenze](https://www.kadenze.com/users/zhe-zhang#tab-certificates){:target="_blank"} related to music technology, computer music and creative coding, including ChucK, MAX/MSP, Physics-DSP, Machine Learning, FAUST, Machine Learning, Web, etc... And I am still working with them to build more interesting and meaningful things. I am looking forward to meet an opportunity to dig into music technology and computer music.
 
 ---
 
@@ -85,29 +85,57 @@ Based on a scale model of a theater in sound-proof chamber, modify the acoustica
 * Wild Open Space: A Demo Sonic Game with a Remote Control using OSC based on ChucK and OpenGL 
 * Grain Step Drum Machine: A Drum Machine with a Digital Clock Modulation Creating Complex but Groovy Rhythm Patterns
 
+*(linking contents under construction...)*
+
 ---
 
 ## Albums & EPs
 
 > *The Artifacts of Ripples*: **A personal music project of mine, exploring the edge of making music in a bedroom. I made the album "Radio Rex" totally by iPad, getting rid of the complexity and expensiveness of traditional music production in studio.**
 
+<a href="https://theartifactsofripples.bandcamp.com/album/radio-rex" target="_blank">
+<img class="cover-picture" src="radiorex.jpg" title="The Artifacts of Ripples - Radio Rex" alt="The Artifacts of Ripples - Radio Rex" />
+</a>
+<a href="https://theartifactsofripples.bandcamp.com/album/life" target="_blank">
+<img class="cover-picture" src="life.jpg" title="The Artifacts of Ripples - Life?" alt="The Artifacts of Ripples - Life?" />
+</a>
+<a href="https://theartifactsofripples.bandcamp.com/album/guyu" target="_blank">
+<img class="cover-picture" src="guyu.jpg" title="The Artifacts of Ripples - Guyu" alt="The Artifacts of Ripples - Guyu" />
+</a>
+
+<!---
+[![alt text](radiorex.jpg "Radio Rex"){:height="100px" width="100px" style="float:left"}](https://theartifactsofripples.bandcamp.com/album/radio-rex)
+-->
+
+<!--
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/703468422&color=%237c766d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/703446387&color=%236c8b5c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/571439184&color=%235c6c44&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+-->
 
 > *Subaqua Roaming Guide*: **A band with my friends Shenyang Xu and Yonglin Zhang. I did some parts of the composing, recording, sampling, mixing, vocal, electric guitar, synthesizer, and sound effects in the works.**
 
+
+<a href="https://subaquaroamingguide.bandcamp.com/album/and-a-star-to-steer-her-by" target="_blank">
+<img class="cover-picture" src="andastartosteerherby.jpg" title="Subaqua Roaming Guide - and a star to steer her by" alt="Subaqua Roaming Guide - and a star to steer her by" />
+</a>
+<a href="https://subaquaroamingguide.bandcamp.com/album/marine-debris" target="_blank">
+<img class="cover-picture" src="marinedebris.jpg" title="Subaqua Roaming Guide - Marine Debris" alt="Subaqua Roaming Guide - Marine Debris" />
+</a>
+
+<!---
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/703417029&color=%230a3665&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/702584835&color=%235b759c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+-->
 
 ---
 
 ## Publications
 
-On the fuck going...!!!
+On going...
 
 ---
 
