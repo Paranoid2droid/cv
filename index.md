@@ -40,8 +40,8 @@ Time      | School                                                    | Degree  
 
 Time      | Location                  | Job Description                  
 ----------|---------------------------|------------------
-2018      | Traditional Orchestra of University of Chinese Academy of Sciences | Audio Engineer & PA Engineer
-2017       | Waves Audio Ltd., Beijing | Tech Documents Composing and Translating
+2018 - 2019 | Traditional Orchestra of University of Chinese Academy of Sciences | Audio Engineer & PA Engineer
+2017        | Waves Audio Ltd., Beijing | Tech Documents Composing and Translating
 2016 - 2017 | Institute of Acoustics of Tongji University, Shanghai | Research Assistant
 2016       | Paranoid Android Studio, Shanghai | Recording Engineer of The Machinery of Other Skeletons (band)
 2015 - 2017 | MAO Livehouse, Shanghai | Associate Audio Engineer & Stage Tech
