@@ -7,9 +7,9 @@ title: Zhe Zhang | 张喆
 
 <img class="profile-picture" src="homer.jpg">
 
-Hi! I am a graduate student of [Institute of Acoustics of the Chinese Academy of Sciences](http://english.ioa.cas.cn/){:target="_blank"}, majoring in audio signal processing.
+Hi! I am a graduate student of [Institute of Acoustics, Chinese Academy of Sciences](http://english.ioa.cas.cn/){:target="_blank"}, majoring in audio signal processing.
 
-Besides the projects concerning on DSP implementation I am doing in work hours, I also has a mania for computer music and creative coding. I'm now scratching up [my Github page](https://github.com/Paranoid2droid){:target="_blank"} to share my ChucK codes, MAX/MSP projects ,and other whatever things I built.
+Besides the projects concerning on DSP implementation I am doing in work hours, I also have a mania for computer music and creative coding. I'm now scratching up [my Github page](https://github.com/Paranoid2droid){:target="_blank"} to share my ChucK codes, MAX/MSP projects ,and other things I built.
 
 I'm also a music maker and multi-instrument player. I've released a few EPs and albums. You may check them on [my SoundCloud page](https://soundcloud.com/paranoid2droid){:target="_blank"}.
 
@@ -19,20 +19,20 @@ One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.
 
 ## Research Interest
 
-I got a Bachelor Degree in Physics, focusing on Acoustics. I engaged in research on room acoustics and techniques of concert hall design when I was an undergraduate. I was also an associate audio engineer and stage tech in [MAO Livehouse](http://mao-music.com){:target="_blank"}.
+I got a B.E. Degree in Applied Physics, focusing on Acoustics. I engaged in research on room acoustics and techniques of concert hall design when I was an undergraduate. I was also an associate audio engineer and stage tech in [MAO Livehouse](http://mao-music.com){:target="_blank"}.
 
-Right now I am doing my Master Degree in Electronic Engineering, with a research subject on DSP implementation of audio processing algorithms. I'm developing real-time system of sound field analysis, including far-field sound source localization and near-field acoustical holography. 
+Right now I am doing my M.S. Degree in Electronic Engineering, with a research subject on DSP implementation of audio processing algorithms. I'm developing real-time system of sound field analysis, including far-field sound source localization and near-field acoustical holography. 
 
-With my experiences of acoustics and audio, I found my passion for research landing on the cross point of computer, music, and acoustics. Lately I've finished [more than 10 courses on Kadenze](https://www.kadenze.com/users/zhe-zhang#tab-certificates){:target="_blank"} related to music technology, computer music and creative coding, including ChucK, MAX/MSP, Physics-DSP, Machine Learning, FAUST, Machine Learning, Web, etc... And I am still working with them to build more interesting and meaningful things. I am looking forward to meet an opportunity to dig into music technology and computer music.
+With my experiences of acoustics and audio, I found my passion for research landing on the cross point of computer, music, and acoustics. Lately I've finished [more than 10 courses on Kadenze](https://www.kadenze.com/users/zhe-zhang#tab-certificates){:target="_blank"} related to music technology, computer music and creative coding, including ChucK, MAX/MSP, Physics-DSP, Machine Learning, FAUST, Machine Learning, Web, etc... And I am still working with them to build more interesting and meaningful works. I am looking forward to meet an opportunity to dig into music technology and computer music.
 
 ---
 
 ## Education
 
-Time      | School                                                    | Degree                         | Major     | GPA
-----------|-----------------------------------------------------------|--------------------------------|-----------|------ 
-2017 -      | Institute of Acoustics of the Chinese Academy of Sciences | Master of Electric Engineering | Audio Signal Processing | ...
-2013 - 2017 | Tongji University                                         | Bachelor of Physics            | Acoustics | 4.6/5 
+Time      | School                                                    | Degree                         | Major     
+----------|-----------------------------------------------------------|--------------------------------|----------- 
+2017 -      | Institute of Acoustics, Chinese Academy of Sciences | Master of Electric Engineering | Audio Signal Processing 
+2013 - 2017 | Tongji University                                         | Bachelor of Applied Physics        | Acoustics 
 
 ---
 
@@ -40,12 +40,13 @@ Time      | School                                                    | Degree  
 
 Time      | Location                  | Job Description                  
 ----------|---------------------------|------------------
-2017       | Waves Audio Ltd., Beijing | composing and translating product tech introduction of website of Waves Audio
-2016 - 2017 | Institute of Acoustics of Tongji University, Shanghai | research assistance
-2016       | Paranoid Android Studio, Shanghai | recording engineer of band The Machinery of Other Skeletons 
-2015 - 2017 | MAO Livehouse, Shanghai | associate audio engineer & stage tech
-2014 Summer | Environmental Protection Agency of Zhabei District, Shanghai | investigation of roof afforestation plan in Shanghai
-2013 Summer | FamilyMart, Shanghai | sales and clerk
+2018      | Traditional Orchestra of University of Chinese Academy of Sciences | Audio Engineer & PA Engineer
+2017       | Waves Audio Ltd., Beijing | Tech Documents Composing and Translating
+2016 - 2017 | Institute of Acoustics of Tongji University, Shanghai | Research Assistant
+2016       | Paranoid Android Studio, Shanghai | Recording Engineer of The Machinery of Other Skeletons (band)
+2015 - 2017 | MAO Livehouse, Shanghai | Associate Audio Engineer & Stage Tech
+2014 Summer | Environmental Protection Agency of Zhabei District, Shanghai | Investigator of Roof Afforestation Plan in Shanghai
+2013 Summer | FamilyMart, Shanghai | Intern
 
 ---
 
@@ -67,7 +68,7 @@ Study techniques of near-field acoustical holography algorithms such as SONAH, d
 
 * 2018: Improved MUSIC Algorithm with Enhanced Matrix for Estimating Harmonic Components
 
-Estimate the number of harmonic components by observe the trend of eigenvalue of self-correlation matrix of the signal's enhanced matrix to determine the sub-space of MUSIC algorithm, providing a better performance in low SNR situations.
+Estimate the number of harmonic components by observing the trend of eigenvalue of self-correlation matrix of the signal's enhanced matrix to determine the sub-space of MUSIC algorithm, providing a better performance in low SNR situations.
 
 <img class="project-picture" src="research_4.jpg">
 
@@ -79,7 +80,7 @@ Design filter banks converting A-Format audio signal captured by sound field mic
 
 * 2016: Study on the Decay of Sound Energy in Stage-Auditorium Coupled Sound Field of Theaters
 
-Based on a scale model of a theater in sound-proof chamber, modify the acoustical absorption coefficient of stage and auditorium to study the predicting of reverberation in different location inside a theater with acoustical coupling phenomenon between stage and auditorium.
+Based on a scale model of a theater in sound-proof chamber, modify the acoustical absorption coefficient of stage and auditorium to predict the reverberation in different location inside a theater with acoustical coupling phenomenon between stage and auditorium.
 
 ---
 
