@@ -1,5 +1,5 @@
 title: Zhe Zhang | 张喆
-url: "https://paranoid2droid.github.io/"
+url: "https://zhezhang.me/"
 baseurl: "/cv"
 
 
@@ -9,7 +9,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/paranoid2droid"
+footer_url: "zhezhang.me"
 footer_text: "The best you can is good enough."
 
 sass:
@@ -19,7 +19,7 @@ sass:
 nav:
  - name: "Main"
    link: "/"
- - name: "PDF"
-   link: "resume.pdf"
+ - name: "Resume(PDF)"
+   link: "resume_zhezhang.pdf"
  - name: "Contact"
    link: "contact"

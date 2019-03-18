@@ -5,7 +5,7 @@ title: Zhe Zhang | 张喆
 
 ## About Me
 
-<img class="profile-picture" src="homer.jpg">
+<img class="profile-picture" src="photo.jpg">
 
 Hi! I am a graduate student of [Institute of Acoustics, Chinese Academy of Sciences](http://english.ioa.cas.cn/){:target="_blank"}, majoring in audio signal processing.
 
@@ -19,9 +19,9 @@ One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.
 
 ## Research Interest
 
-I got a B.E. Degree in Applied Physics, focusing on Acoustics. I engaged in research on room acoustics and techniques of concert hall design when I was an undergraduate. I was also an associate audio engineer and stage tech in [MAO Livehouse](http://mao-music.com){:target="_blank"}.
+I got a B.S. Degree in Applied Physics, focusing on Acoustics. I engaged in research on room acoustics and techniques of concert hall design when I was an undergraduate. I was also an associate audio engineer and stage tech in [MAO Livehouse](http://mao-music.com){:target="_blank"}.
 
-Right now I am doing my M.S. Degree in Electronic Engineering, with a research subject on DSP implementation of audio processing algorithms. I'm developing real-time system of sound field analysis, including far-field sound source localization and near-field acoustical holography. 
+Right now I am doing my M.E. Degree in Electronic Engineering, with a research subject on DSP implementation of audio processing algorithms. I'm developing real-time system of sound field analysis, including far-field sound source localization and near-field acoustical holography. 
 
 With my experiences of acoustics and audio, I found my passion for research landing on the cross point of computer, music, and acoustics. Lately I've finished [more than 10 courses on Kadenze](https://www.kadenze.com/users/zhe-zhang#tab-certificates){:target="_blank"} related to music technology, computer music and creative coding, including ChucK, MAX/MSP, Physics-DSP, Machine Learning, FAUST, Machine Learning, Web, etc... And I am still working with them to build more interesting and meaningful works. I am looking forward to meet an opportunity to dig into music technology and computer music.
 
@@ -40,10 +40,10 @@ Time      | School                                                    | Degree  
 
 Time      | Location                  | Job Description                  
 ----------|---------------------------|------------------
-2018 - 2019 | Traditional Orchestra of University of Chinese Academy of Sciences | Audio Engineer & PA Engineer
+2018 - 2019 | Traditional Orchestra of University of Chinese Academy of Sciences, Beijing | Audio Engineer & PA Engineer
 2017        | Waves Audio Ltd., Beijing | Tech Documents Composing and Translating
 2016 - 2017 | Institute of Acoustics of Tongji University, Shanghai | Research Assistant
-2016       | Paranoid Android Studio, Shanghai | Recording Engineer of The Machinery of Other Skeletons (band)
+2016 - 2017 | Paranoid Android Music Studio, Shanghai | Recording & Mixing Engineer 
 2015 - 2017 | MAO Livehouse, Shanghai | Associate Audio Engineer & Stage Tech
 2014 Summer | Environmental Protection Agency of Zhabei District, Shanghai | Investigator of Roof Afforestation Plan in Shanghai
 2013 Summer | FamilyMart, Shanghai | Intern
@@ -60,7 +60,7 @@ Study techniques of sound source localization algorithms such as SRP, develop re
 
 <img class="project-picture" src="research_2.gif">
 
-* 2018: DSP-based Implementation of Near-field Acoustical Holography Algorithms
+* 2018: DSP-Based Implementation of a Real-time Sound Field Visualization System Using SONAH Algorithm
 
 Study techniques of near-field acoustical holography algorithms such as SONAH, develop real-time DSP systems to visualize sound field with details of evanescent waves.
 
@@ -86,13 +86,13 @@ Based on a scale model of a theater in sound-proof chamber, modify the acoustica
 
 ## Personal Portfolio
 
-* [Cosmic Echoes: An Interactive Max/MSP Patch Echoes Waves in Sound and Visualization](https://www.kadenze.com/users/zhe-zhang/portfolio_projects/ii-c8d45663-014f-412c-9de1-e0ea8bed9224){:target="_blank"}
+* [Cosmic Echoes](https://www.kadenze.com/users/zhe-zhang/portfolio_projects/ii-c8d45663-014f-412c-9de1-e0ea8bed9224){:target="_blank"}: An Interactive Max/MSP Patch Echoes Waves in Sound and Visualization
+* [Wild Open Space](https://www.kadenze.com/users/zhe-zhang/portfolio_projects/ii-049c2bd7-8041-4516-af5f-20e5a5000bfe){:target="_blank"}: A Demo Sonic Game with a Remote Control using OSC based on ChucK and OpenGL
+* [shakeFM](https://www.kadenze.com/users/zhe-zhang/portfolio_projects/ii-fce6beee-9e64-4267-90d5-47787cc00a81){:target="_blank"}: A Gravity-controlled FM Synthesizer Based on Wekinator and Chuck Using Machine Learning Algorithms
+* [Grain Step Drum Machine](https://www.kadenze.com/users/zhe-zhang/portfolio_projects/ii-84b86424-faa1-47b1-9830-6a3c3ce94fe5){:target="_blank"}: A Drum Machine with a Digital Clock Modulation Creating Complex but Groovy Rhythm Patterns
 * Precode in C: A Piece of Computer Music Work Based on ChucK Programming Inspired by BWV846 of Bach
-* shakeFM: A Gravity-controlled FM Synthesizer Based on Wekinator and Chuck Using Machine Learning Algorithms
-* Wild Open Space: A Demo Sonic Game with a Remote Control using OSC based on ChucK and OpenGL 
-* Grain Step Drum Machine: A Drum Machine with a Digital Clock Modulation Creating Complex but Groovy Rhythm Patterns
 
-*(linking contents under construction...)*
+*(more linking contents under construction on [my kadenze portfolio page](https://www.kadenze.com/users/zhe-zhang#tab-portfolio)...)*
 
 ---
 
@@ -141,14 +141,14 @@ Based on a scale model of a theater in sound-proof chamber, modify the acoustica
 
 ## Publications
 
-On going...
+Under review...
 
 ---
 
 ## Skills
 
 * **Programming**: *C/C++, Matlab, DSP Software Developing, Python, Javascript*
-* **Audio Processing**: *ChucK, MAX/MSP, Wekinator, FAUST, Reaktor*
+* **Audio Processing**: *ChucK, MAX/MSP, JUCE, Wekinator, FAUST, Reaktor*
 * **Music Production**: *Recording & PA, Audio Mixing, Sound Design*
 * **Acoustic Design**: *COMSOL*
 
