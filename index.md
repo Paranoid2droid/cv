@@ -46,7 +46,6 @@ Time      | Location                  | Job Description
 2016 - 2017 | Paranoid Android Music Studio, Shanghai | Recording & Mixing Engineer 
 2015 - 2017 | MAO Livehouse, Shanghai | Associate Audio Engineer & Stage Tech
 2014 Summer | Environmental Protection Agency of Zhabei District, Shanghai | Investigator of Roof Afforestation Plan in Shanghai
-2013 Summer | FamilyMart, Shanghai | Intern
 
 ---
 
@@ -141,7 +140,8 @@ Based on a scale model of a theater in sound-proof chamber, modify the acoustica
 
 ## Publications
 
-Under review...
+1. Zhe Zhang, Ming Wu, Jun Yang. DSP-Based Implementation of a Real-time Sound Field Visualization System Using SONAH Algorithm[C]. The 2019 5th International Conference on Harmony Search, Soft Computing and Applications, 2019. (Accepted)
+2. Xinyu Han, Ming Wu, Jun Yang, Zhe Zhang. Sound Source Localization Using Distributed Microphone in Spherical Harmonics Domain[J]. Journal of Signal Processing, 2019. (Accepted)
 
 ---
 
