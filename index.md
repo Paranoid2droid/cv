@@ -9,7 +9,7 @@ title: Zhe Zhang | 张喆
 
 Hi! I am a graduate student of [Institute of Acoustics, Chinese Academy of Sciences](http://english.ioa.cas.cn/){:target="_blank"}, majoring in audio signal processing.
 
-Besides the projects concerning on DSP implementation I am doing in work hours, I also have a mania for computer music and creative coding. I'm now scratching up [my Github page](https://github.com/Paranoid2droid){:target="_blank"} to share my ChucK codes, MAX/MSP projects ,and other things I built.
+Besides the projects concerning on DSP implementation I am doing in work hours, I also have a mania for computer music and creative coding. I'm now starting up [my Github page](https://github.com/Paranoid2droid){:target="_blank"} from scratch to share my ChucK codes, MAX/MSP projects ,and other things I built.
 
 I'm also a music maker and multi-instrument player. I've released a few EPs and albums. You may check them on [my SoundCloud page](https://soundcloud.com/paranoid2droid){:target="_blank"}.
 
@@ -40,7 +40,7 @@ Time      | School                                                    | Degree  
 
 Time      | Location                  | Job Description                  
 ----------|---------------------------|------------------
-2018 - 2019 | Traditional Orchestra of University of Chinese Academy of Sciences, Beijing | Audio Engineer & PA Engineer
+2018 - 2019 | Chinese Folk Orchestra of University of Chinese Academy of Sciences, Beijing | Audio Engineer & PA Engineer
 2017        | Waves Audio Ltd., Beijing | Tech Documents Composing and Translating
 2016 - 2017 | Institute of Acoustics of Tongji University, Shanghai | Research Assistant
 2016 - 2017 | Paranoid Android Music Studio, Shanghai | Recording & Mixing Engineer 
