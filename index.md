@@ -7,11 +7,11 @@ title: Zhe Zhang | 张喆
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! I am a graduate student of [Institute of Acoustics, Chinese Academy of Sciences](http://english.ioa.cas.cn/){:target="_blank"}, majoring in audio signal processing.
+Hi! I am a graduate student from [Institute of Acoustics, Chinese Academy of Sciences](http://english.ioa.cas.cn/){:target="_blank"}, majoring in audio signal processing.
 
-Besides the projects concerning on DSP implementation I am doing in work hours, I also have a mania for computer music and creative coding. I'm now starting up [my Github page](https://github.com/Paranoid2droid){:target="_blank"} from scratch to share my ChucK codes, MAX/MSP projects ,and other things I built.
+On top of the projects on DSP implementation that I did in work hours, I also have a mania for computer music and music technology. I'm now starting up [my Github page](https://github.com/Paranoid2droid){:target="_blank"} from scratch to share my ChucK codes, MAX/MSP projects, plug-ins and other things I built.
 
-I'm also a music maker and multi-instrument player. I've released a few EPs and albums. You may check them on [my SoundCloud page](https://soundcloud.com/paranoid2droid){:target="_blank"}.
+I'm also a music maker and multi-instrument player. I've released a few EPs and albums. You may check them out on [my SoundCloud page](https://soundcloud.com/paranoid2droid){:target="_blank"}.
 
 One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.com/){:target="_blank"}, which is an amazing place for learn and make all kinds of cool stuff. Meet me [there](https://www.kadenze.com/users/zhe-zhang){:target="_blank"}!
 
@@ -19,11 +19,11 @@ One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.
 
 ## Research Interest
 
-I got a B.S. Degree in Applied Physics, focusing on Acoustics. I engaged in research on room acoustics and techniques of concert hall design when I was an undergraduate. I was also an associate audio engineer and stage tech in [MAO Livehouse](http://mao-music.com){:target="_blank"}.
+I earned a B.S. Degree in Applied Physics, focusing on Acoustics. I engaged in a research on room acoustics and concert hall design during undergraduate years. I also worked as an associate audio engineer and stage tech in [MAO Livehouse](http://mao-music.com){:target="_blank"}.
 
 Right now I am doing my M.E. Degree in Electronic Engineering, with a research subject on DSP implementation of audio processing algorithms. I'm developing real-time system of sound field analysis, including far-field sound source localization and near-field acoustical holography. 
 
-With my experiences of acoustics and audio, I found my passion for research land on the cross point of computer, music, and acoustics. Lately I've finished [more than 10 courses on Kadenze](https://www.kadenze.com/users/zhe-zhang#tab-certificates){:target="_blank"} related to music technology, computer music and creative coding, including ChucK, MAX/MSP, Physics-DSP, JUCE, FAUST, Machine Learning, Web, etc... And I am still working with them to build more interesting and meaningful works. I am looking forward to meet an opportunity to dig into music technology and computer music.
+With my experiences of acoustics and audio, I found my passion for research land on the cross point of computer, music, and acoustics. Lately I've finished [more than 10 courses on Kadenze](https://www.kadenze.com/users/zhe-zhang#tab-certificates){:target="_blank"} related to music technology, computer music and creative coding, including ChucK, MAX/MSP, Physics-DSP, JUCE, FAUST, Machine Learning, Web, etc. And I am still working with them to build more interesting and meaningful works. I am looking forward to finding an opportunity to dig into music technology and computer music.
 
 ---
 
@@ -55,31 +55,31 @@ Time      | Location                  | Job Description
 
 * 2019: DSP-based Implementation of Far-field Sound Source Localization Algorithms
 
-Study techniques of sound source localization algorithms such as SRP, develop real-time DSP systems to locate sound sources using microphone array.
+Studied techniques of sound source localization algorithms such as SRP, develop real-time DSP systems to locate sound sources using microphone array.
 
 <img class="project-picture" src="research_2.gif">
 
 * 2018: DSP-Based Implementation of a Real-time Sound Field Visualization System Using SONAH Algorithm
 
-Study techniques of near-field acoustical holography algorithms such as SONAH, develop real-time DSP systems to visualize sound field with details of evanescent waves.
+Studied techniques of near-field acoustical holography algorithms such as SONAH, develop real-time DSP systems to visualize sound field with details of evanescent waves.
 
 <img class="project-picture" src="research_3.jpg">
 
 * 2018: Improved MUSIC Algorithm with Enhanced Matrix for Estimating Harmonic Components
 
-Estimate the number of harmonic components by observing the trend of eigenvalue of self-correlation matrix of the signal's enhanced matrix to determine the sub-space of MUSIC algorithm, providing a better performance in low SNR situations.
+Estimated the number of harmonic components by observing the trend of eigenvalue of self-correlation matrix of the signal's enhanced matrix to determine the sub-space of MUSIC algorithm, providing a better performance in low SNR situations.
 
 <img class="project-picture" src="research_4.jpg">
 
 * 2017: Measurement of Total Sound Energy Density Based on Sound Field Microphone
 
-Design filter banks converting A-Format audio signal captured by sound field microphones into B-Format and to obtain three-dimensional particle vibration velocity and total sound energy density.
+Designed filter banks converting A-Format audio signal captured by sound field microphones into B-Format and to obtain three-dimensional particle vibration velocity and total sound energy density.
 
 <img class="project-picture" src="research_5.jpg">
 
 * 2016: Study on the Decay of Sound Energy in Stage-Auditorium Coupled Sound Field of Theaters
 
-Based on a scale model of a theater in sound-proof chamber, modify the acoustical absorption coefficient of stage and auditorium to predict the reverberation in different location inside a theater with acoustical coupling phenomenon between stage and auditorium.
+Based on a scale model of a theater in sound-proof chamber, modified the acoustic absorption coefficient of stage and auditorium to predict the reverberation in different location inside a theater with acoustical coupling phenomenon between stage and auditorium.
 
 ---
 
