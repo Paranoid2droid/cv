@@ -91,13 +91,15 @@ Based on a scale model of a theater in sound-proof chamber, modified the acousti
 
 ## Personal Portfolio
 
-* [Cosmic Echoes](https://www.kadenze.com/users/zhe-zhang/portfolio_projects/ii-c8d45663-014f-412c-9de1-e0ea8bed9224){:target="_blank"}: An Interactive Max/MSP Patch Echoes Waves in Sound and Visualization
-* [Wild Open Space](https://www.kadenze.com/users/zhe-zhang/portfolio_projects/ii-049c2bd7-8041-4516-af5f-20e5a5000bfe){:target="_blank"}: A Demo Sonic Game with a Remote Control using OSC based on ChucK and OpenGL
-* [shakeFM](https://www.kadenze.com/users/zhe-zhang/portfolio_projects/ii-fce6beee-9e64-4267-90d5-47787cc00a81){:target="_blank"}: A Gravity-controlled FM Synthesizer Based on Wekinator and Chuck Using Machine Learning Algorithms
-* [Grain Step Drum Machine](https://www.kadenze.com/users/zhe-zhang/portfolio_projects/ii-84b86424-faa1-47b1-9830-6a3c3ce94fe5){:target="_blank"}: A Drum Machine with a Digital Clock Modulation Creating Complex but Groovy Rhythm Patterns
+* [ParanoidChrous](https://github.com/paranoid2droid/ParanoidChrous){:target="_blank"}: A Chorus-like Effect Plug-in/Standalone Application based on JUCE
+* [Cosmic-Echoes](https://github.com/paranoid2droid/Cosmic-Echoes){:target="_blank"}: An Interactive MAX/MSP Patch with Audiovisual
+* [Wild Open Space](https://github.com/paranoid2droid/WildOpenSpace){:target="_blank"}: A Demo Sonic Game with a Remote Control using OSC based on ChucK and OpenGL
+* [shakeFM](https://github.com/paranoid2droid/shakeFM){:target="_blank"}: A Gravity-controlled FM Synthesizer Based on Wekinator and Chuck Using Machine Learning Algorithms
+* [GrainBeats](https://github.com/paranoid2droid/GrainBeats){:target="_blank"}: A Drum Machine with a Digital Clock Modulation Creating Complex but Groovy Rhythm Patterns
+* [PressAnyKey](https://github.com/paranoid2droid/PressAnyKey){:target="_blank"}: A Keyboard-controlled Step Audio/Video Sequencer Based on MAX/MSP
 * Precode in C: A Piece of Computer Music Work Based on ChucK Programming Inspired by BWV846 of Bach
 
-*(more linking contents under construction on [my kadenze portfolio page](https://www.kadenze.com/users/zhe-zhang#tab-portfolio)...)*
+*(I have a specialized page for project showcase: [Zhe's Portfolio](https://zhezhang.me/portfolio/#interactive-audiovisual) (under construction...))*
 
 ---
 
