@@ -97,7 +97,7 @@ Based on a scale model of a theater in sound-proof chamber, modified the acousti
 * [shakeFM](https://github.com/paranoid2droid/shakeFM){:target="_blank"}: A Gravity-controlled FM Synthesizer Based on Wekinator and Chuck Using Machine Learning Algorithms
 * [GrainBeats](https://github.com/paranoid2droid/GrainBeats){:target="_blank"}: A Drum Machine with a Digital Clock Modulation Creating Complex but Groovy Rhythm Patterns
 * [PressAnyKey](https://github.com/paranoid2droid/PressAnyKey){:target="_blank"}: A Keyboard-controlled Step Audio/Video Sequencer Based on MAX/MSP
-* [whenIAmKingYouWillBeFirstAgainstWall](https://github.com/paranoid2droid/whenIAmKingYouWillBeFirstAgainstWall){:target="_blank"}: An Open-source Computer Music Album Based on ChucK
+* [whenIAmKingYouWillBeFirstAgainstWall](https://github.com/paranoid2droid/whenIAmKingYouWillBeFirstAgainstWall){:target="_blank"}: An Open-source Computer Music Album Based on ChucK (I call it a **Chulbum**)
 
 *(I have a specialized page for project showcase: [Zhe's Portfolio](https://zhezhang.me/portfolio/#interactive-audiovisual) (under construction...))*
 
