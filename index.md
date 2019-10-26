@@ -97,7 +97,7 @@ Based on a scale model of a theater in sound-proof chamber, modified the acousti
 * [shakeFM](https://github.com/paranoid2droid/shakeFM){:target="_blank"}: A Gravity-controlled FM Synthesizer Based on Wekinator and Chuck Using Machine Learning Algorithms
 * [GrainBeats](https://github.com/paranoid2droid/GrainBeats){:target="_blank"}: A Drum Machine with a Digital Clock Modulation Creating Complex but Groovy Rhythm Patterns
 * [PressAnyKey](https://github.com/paranoid2droid/PressAnyKey){:target="_blank"}: A Keyboard-controlled Step Audio/Video Sequencer Based on MAX/MSP
-* [whenIAmKingYouWillBeFirstAgainstWall](https://github.com/paranoid2droid/whenIAmKingYouWillBeFirstAgainstWall){:target="_blank"}: An Open-source Computer Music Album Based on ChucK (I call it a **Chulbum**)
+* [whenIAmKingYouWillBeFirstAgainstWall](https://github.com/paranoid2droid/whenIAmKingYouWillBeFirstAgainstWall){:target="_blank"}: An Open-source Computer Music Album Based on ChucK (I call it a "Chulbum")
 
 *(I have a specialized page for project showcase: [Zhe's Portfolio](https://zhezhang.me/portfolio/#interactive-audiovisual) (under construction...))*
 
@@ -120,18 +120,6 @@ Based on a scale model of a theater in sound-proof chamber, modified the acousti
 <img class="cover-picture" src="guyu.jpg" title="The Artifacts of Ripples - Guyu" alt="The Artifacts of Ripples - Guyu" />
 </a>
 
-<!---
-[![alt text](radiorex.jpg "Radio Rex"){:height="100px" width="100px" style="float:left"}](https://theartifactsofripples.bandcamp.com/album/radio-rex)
--->
-
-<!--
-<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/703468422&color=%237c766d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
-<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/703446387&color=%236c8b5c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
-<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/571439184&color=%235c6c44&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
--->
-
 > *Subaqua Roaming Guide*: **A band with my friends *Shenyang Xu* and *Yonglin Zhang*. I did some parts of the composing, recording, sampling, mixing, vocal, electric guitar, synthesizer, and sound effects in the works.**
 
 <a href="https://subaquaroamingguide.bandcamp.com/album/and-a-star-to-steer-her-by" target="_blank">
@@ -140,12 +128,6 @@ Based on a scale model of a theater in sound-proof chamber, modified the acousti
 <a href="https://subaquaroamingguide.bandcamp.com/album/marine-debris" target="_blank">
 <img class="cover-picture" src="marinedebris.jpg" title="Subaqua Roaming Guide - Marine Debris" alt="Subaqua Roaming Guide - Marine Debris" />
 </a>
-
-<!---
-<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/703417029&color=%230a3665&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
-<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/702584835&color=%235b759c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
--->
 
 ---
 
