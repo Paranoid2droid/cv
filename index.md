@@ -99,7 +99,7 @@ Based on a scale model of a theater in sound-proof chamber, modified the acousti
 * [PressAnyKey](https://github.com/paranoid2droid/PressAnyKey){:target="_blank"}: A Keyboard-controlled Step Audio/Video Sequencer Based on MAX/MSP
 * [whenIAmKingYouWillBeFirstAgainstWall](https://github.com/paranoid2droid/whenIAmKingYouWillBeFirstAgainstWall){:target="_blank"}: An Open-source Computer Music Album Based on ChucK (I call it a "Chulbum")
 
-*(I have a specialized page for project showcase: [Zhe's Portfolio](https://zhezhang.me/portfolio/))*
+*(I have a specialized page for project showcase: [**Zhe's Portfolio**](https://zhezhang.me/portfolio/){:target="_blank"})*
 
 ---
 
