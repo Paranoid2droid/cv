@@ -9,7 +9,7 @@ title: Zhe Zhang | 张喆
 
 Hi! I am a graduate student from [Institute of Acoustics, Chinese Academy of Sciences](http://english.ioa.cas.cn/){:target="_blank"}, majoring in audio signal processing.
 
-On top of the research projects about DSP algorithms in work hours, I also have a mania for computer music and music tech. I'm now starting [my Github page](https://github.com/Paranoid2droid){:target="_blank"} from scratch to share my ChucK codes, MAX/MSP projects, plug-ins and other things I built.
+On top of the research projects about DSP algorithms in work hours, I also have a mania for computer music and music tech. All the source codes of my synthesizers, plug-ins, audiovisual, computer music and other stuff are on [my Github page](https://github.com/Paranoid2droid){:target="_blank"}.
 
 I'm also a music maker and multi-instrument player. I've released a few EPs and albums. You may check them out on [my SoundCloud page](https://soundcloud.com/paranoid2droid){:target="_blank"}.
 
