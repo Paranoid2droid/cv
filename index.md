@@ -11,7 +11,7 @@ Hi! I am a graduate student from [Institute of Acoustics, Chinese Academy of Sci
 
 On top of the research projects on audio in work hours, I also have a mania for computer music and music tech. All the source codes of my synthesizers, plug-ins, audiovisual, computer music and other stuff are on [my Github page](https://github.com/Paranoid2droid){:target="_blank"}.
 
-I'm also a music maker and multi-instrument player. I've released a few EPs and albums. You may check them out on [my SoundCloud page](https://soundcloud.com/paranoid2droid){:target="_blank"}.
+I'm also a music maker and multi-instrument player. Check out my released albums and EPs on [my SoundCloud page](https://soundcloud.com/paranoid2droid){:target="_blank"}.
 
 One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.com/){:target="_blank"}, which is an amazing place for learn and make all kinds of cool stuff. Meet me [there](https://www.kadenze.com/users/zhe-zhang){:target="_blank"}!
 
