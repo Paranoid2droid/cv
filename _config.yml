@@ -19,6 +19,8 @@ sass:
 nav:
  - name: "Main"
    link: "/"
+ - name: "Portfolio"
+   link: "/portfolio"
  - name: "Resume(PDF)"
    link: "resume_zhezhang.pdf"
  - name: "Contact"
