@@ -40,11 +40,12 @@ Time      | School                                                    | Degree  
 
 Time      | Location                  | Job Description                  
 ----------|---------------------------|------------------
+2019 - present | E-Business (band), Beijing | Recording & Mixing Engineer
 2018 - 2019 | Chinese Folk Orchestra of University of Chinese Academy of Sciences, Beijing | Audio Engineer & PA Engineer
 2017        | Waves Audio Ltd., Beijing | Tech Documents Composing and Translating
 2016 - 2017 | Institute of Acoustics of Tongji University, Shanghai | Research Assistant
-2016 - 2017 | Paranoid Android Music Studio, Shanghai | Recording & Mixing Engineer 
-2015 - 2017 | MAO Livehouse, Shanghai | Associate Audio Engineer & Stage Tech
+2016 - 2017 | The Machinery of Other Skeletons (band), Shanghai | Recording Engineer 
+2015 - 2017 | MAO Livehouse, Shanghai | Associate Sound Engineer & Stage Tech
 2014 Summer | Environmental Protection Agency of Zhabei District, Shanghai | Investigator of Roof Afforestation Plan in Shanghai
 
 ---
