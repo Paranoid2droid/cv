@@ -92,7 +92,7 @@ Based on a scale model of a theater in sound-proof chamber, modified the acousti
 
 ## Personal Portfolio
 
-* [ParanoidChrous](https://github.com/paranoid2droid/ParanoidChrous){:target="_blank"}: A Chorus-like Effect Plug-in/Standalone Application based on JUCE
+* [ParanoidChorus](https://github.com/paranoid2droid/ParanoidChorus){:target="_blank"}: A Chorus-like Effect Plug-in/Standalone Application based on JUCE
 * [Cosmic-Echoes](https://github.com/paranoid2droid/Cosmic-Echoes){:target="_blank"}: An Interactive MAX/MSP Patch with Audiovisual
 * [Wild Open Space](https://github.com/paranoid2droid/WildOpenSpace){:target="_blank"}: A Demo Sonic Game with a Remote Control using OSC based on ChucK and OpenGL
 * [shakeFM](https://github.com/paranoid2droid/shakeFM){:target="_blank"}: A Gravity-controlled FM Synthesizer Based on Wekinator and Chuck Using Machine Learning Algorithms
