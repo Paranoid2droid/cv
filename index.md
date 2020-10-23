@@ -7,7 +7,7 @@ title: Zhe Zhang | 张喆
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! I'm an audio algorithm engineer and researcher in a music technology start-up now. I got a Master's degree  in electronic engineering, focusing on audio signal processing and a Bachelor's degree in applied physics, focusing on acoustics. 
+Hi! I'm an audio algorithm engineer and researcher in a music technology start-up now. I got a Master's degree in electronic engineering, focusing on audio signal processing and a Bachelor's degree in applied physics, focusing on acoustics. 
 
 On top of my research experience in audio and DSP, I also have a mania for computer music and music tech. All the source codes of my synthesizers, plug-ins, audiovisual, computer music and other stuff are on [my Github page](https://github.com/Paranoid2droid){:target="_blank"}.
 
@@ -19,13 +19,13 @@ One more thing, I am selected as an AMBASSADOR on [Kadenze](https://www.kadenze.
 
 ## Research Interest
 
-During undergraduate period. I engaged in a research on room acoustics and concert hall design during undergraduate years. I also worked as an associate audio engineer and stage tech in [MAO Livehouse](http://mao-music.com){:target="_blank"}.
+During undergraduate period, I engaged in a research on room acoustics and concert hall design. I also worked as an associate sound engineer and stage tech in [MAO Livehouse](http://mao-music.com){:target="_blank"} during undergraduate years.
 
 In graduate institute, my research subject was DSP implementation of audio processing algorithms. I researched on front-end audio algorithms and developed real-time sound field analysis systems, including far-field sound source localization and near-field acoustical holography. 
 
 With my experiences of acoustics and audio, I found my passion for research land on the cross point of computer, music, and acoustics. I finished [more than 10 courses on Kadenze](https://www.kadenze.com/users/zhe-zhang#tab-certificates){:target="_blank"} related to music technology, computer music and creative coding, including ChucK, MAX/MSP, Physics-DSP, JUCE, FAUST, Machine Learning, Web, etc., and built several personal projects including synthesizers, audio plug-ins, and interactive computer music.
 
-After graduation, I joined a music technology start-up as an audio algorithm engineer. I develop audio algorithms in our virtual singer app, including DL-based singing voice synthesizing and traditional music signal processing like time stretching and pitch shifting. I am looking forward to digging into music technology and computer music.
+After graduation, I joined a music technology start-up as an audio algorithm engineer. I develop audio algorithms in our AI-driven virtual singer app, including DL-based singing voice synthesizing and traditional music signal processing like time stretching and pitch shifting. I am looking forward to digging into music technology and computer music.
 
 ---
 
@@ -42,7 +42,7 @@ Time      | School                                                    | Degree  
 
 Time      | Location                  | Job Description                  
 ----------|---------------------------|------------------
-2020 - present | Beijing Timedomain Technology Co.,Ltd. | Audio Algorithm Engineer
+2020 - present | Beijing Timedomain Technology Co., Ltd. | Audio Algorithm Engineer & Music Technology Researcher
 2019 - 2020 | E-Business(band), Beijing | Recording & Mixing Engineer
 2018 - 2019 | Chinese Folk Orchestra of University of Chinese Academy of Sciences, Beijing | Audio Engineer & PA Engineer
 2017        | Waves Audio Ltd., Beijing | Tech Documents Composing and Translating
@@ -57,9 +57,9 @@ Time      | Location                  | Job Description
 
 <img class="project-picture" src="research_8.gif">
 
-* 2020(on going): Research on Various Approaches of Singing Voice Synthesizing for Developing of an AI Virtual Singer
+* 2020(on going): Research on Various Approaches of Singing Voice Synthesizing for an AI Virtual Singer App
 
-Demonstrated and evaluated various singing voice synthesizing algorithms, including traditional approaches like the WORLD vocoder, deep networks based approaches like Seq2Seq, WaveRNN, WaveGrad, etc., and the combination of the methods.
+Demonstrated and evaluated various singing voice synthesizing algorithms, including traditional algorithms like the WORLD vocoder, deep networks based approaches like Seq2Seq, WaveRNN, WaveGrad, etc., and the combination of the methods.
 
 <br>
 
@@ -67,7 +67,7 @@ Demonstrated and evaluated various singing voice synthesizing algorithms, includ
 
 * 2020(on going): Note2F0: A Deep Learning Model Generating F0 from MIDI Notes based on Transformer
 
-Extracted midi and f0 data from recorded singing wave files and designed a deep learning network based on Transformer to generate natural f0 from midi notes for singing voice synthesizing.
+Extracted midi and f0 data from recorded singing audio files and designed a deep learning network based on Transformer to generate natural f0 from midi notes for singing voice synthesizing.
 
 <br>
 
@@ -83,7 +83,7 @@ Optimized SRP algorithm in circular harmonic domain for DSP and developed a real
 
 * 2019: Sound Localization and Separation in Three-dimensional Space Using a Single Microphone with a Metamaterial Enclosure
 
-Used a 3D-printed enclosure to modify the frequency response of an omnidirectional microphone in a direction-independent way, utilized compress sensing techniques and other processing to reconstruct the information about location and audio content of sound sources.
+Used a 3D-printed enclosure to modify the frequency response of an omni-directional microphone in a direction-independent way, utilized compress sensing techniques and other processing to reconstruct the information about location and audio content of sound sources.
 
 <br>
 
