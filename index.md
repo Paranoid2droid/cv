@@ -67,7 +67,7 @@ Demonstrated and evaluated various singing voice synthesizing algorithms, includ
 
 * 2020(on going): Note2F0: A Deep Learning Model Generating F0 from MIDI Notes based on Transformer
 
-Extracted midi and f0 data from recorded singing audio files and designed a deep learning network based on Transformer to generate natural f0 from midi notes for singing voice synthesizing.
+Extracted midi and f0 data from recorded singing audio files and designed a deep learning network based on Transformer to generate natural f0 trajectories from midi notes for singing voice synthesizing.
 
 <br>
 
